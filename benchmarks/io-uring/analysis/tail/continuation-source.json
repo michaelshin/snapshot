@@ -1,0 +1,15 @@
+{
+  "directory": "io-uring-benchmark-tail-20261028",
+  "progress_sha256": "2fec9e79fdb763c8c0fe5e358f0b83d8210e4b3c1575c9fa5b191e03df27b8f7",
+  "freeze_sha256": "620c3cf30a12aa61b763a62b9f24c0f224856030d7f2f3ae8160678a1e108c09",
+  "completed_cells": 40,
+  "completed_pairs": 5,
+  "remaining_repeats": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "protocol_total_cells": 80
+}
